@@ -1,0 +1,42 @@
+ANX-E|MRL-Dispute|MRL-Dispute|MRL-Dispute|0
+ANX-E|MRL-Statutory|MRL-Statutory Dues|MRL-Statutory Dues|0
+ANX-E|MRL-Benami|MRL-Benami|MRL-Benami|0
+ANX-E|Phy-Veri-Asset|Physical Vefi- FAR|Physical Vefi- FAR|0
+ANX-E|Phy-Veri-Inv|Physical Vefi- INV|Physical Vefi- INV|0
+ANX-C|FD|Fixed Deposit|Fixed Deposit|0
+ANX-C|Bank-Balance|Bank-Balance|Bank-Balance|0
+ftyp|FAR-FIN|Fixed Asset register|Fixed Asset register|0
+ftyp|FAR-IT|FAR FOR TAX AUDIT|FAR FOR TAX AUDIT|0
+ftyp|ANX-A|Annex A Document|Annex A Document|0
+ftyp|ANX-B|Annex B Schedule III|Annex B Schedule III|0
+ftyp|ANX-D|Annex D CARO|Annex D CARO|0
+ftyp|ANX-F|Annex F Ext. Cnfrmtn|Annex F Ext. Cnfrmtn|0
+ftyp|ANX-G|Annex G CWIP Reg|Annex G CWIP Reg|0
+ftyp|CR-AGE|Creditor Ageing|Creditor Ageing|0
+ftyp|DEB-AGE|Debtor Ageing|Debtor Ageing|0
+ftyp|TAX-AUDIT|Tax Audit Data|Tax Audit Data|0
+ftyp|INTER-RECO|Inter Fy Reco|Inter Fy Reco|0
+ftyp|P-L|Profit&amp;Loss|Profit&amp;Loss|0
+ftyp|T-B|Trial Balance|Trial Balance|0
+ftyp|INV-BOOK|Inventory Book|Inventory Book|0
+ftyp|ANX-C|Annex C Bank Reco|Annex C Bank Reco|1
+ftyp|ANX-E|Annex E Docs CARO|Annex E Docs CARO|1
+ftyp|MON-RECO|Monthly Reco sheets|Monthly Reco sheets|1
+IT-TCS|206CE|206CE-SCRAP SALE|206CE-SCRAP SALE|0
+IT-TCS|206CIH|206CIH-Customer|206CIH-Customer|0
+IT-TDS|192B|192B-Salary|192B-Salary|0
+IT-TDS|194C|194C-Contractor|194C-Contractor|0
+IT-TDS|194J|194J-Professional|194J-Professional|0
+IT-TDS|194H|194H-MSTC|194H-MSTC|0
+IT-TDS|194Q|194Q-Supplier|194Q-Supplier|0
+IT-TDS|194A|194A-Arbitration Int|194A-Arbitration Int|0
+IT-TDS|194I|194I-Rent|194I-Rent|0
+MON-RECO|CGEGIS|CGEGIS|CGEGIS|0
+MON-RECO|GPF|GPF|GPF|0
+MON-RECO|GST|GST|GST|0
+MON-RECO|NPS|NPS|NPS|0
+MON-RECO|P-TAX|P-TAX|P-TAX|0
+MON-RECO|TDS-GST|TDS-GST|TDS-GST|0
+MON-RECO|P-TAX|PROFESSIONAL-TAX|PROFESSIONAL-TAX|0
+MON-RECO|IT-TDS|IT-TDS|IT-TDS|1
+MON-RECO|IT-TCS|IT-TCS|IT-TCS|1

@@ -1,0 +1,1 @@
+LOAD DATA INFILE 'C:/xampp/htdocs/upl/table_structure/m_param_data.txt' INTO TABLE m_param COLUMNS TERMINATED BY '|';

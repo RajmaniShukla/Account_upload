@@ -1,0 +1,117 @@
+body {font-family: Consolas; background-color:white}
+* {box-sizing: border-box}
+
+select, option {
+	font-size:12pt;
+	
+}
+
+h2.login_info{
+  text-align:center;
+  color: #191970;
+  font-weight: bold;
+  padding:5px;
+  font-size:28px;
+}
+img.logo{
+  align:left;
+  width:30%;
+  border-radius:20%;
+  padding:5px;
+}
+label.title{
+	font-weight: bold;
+	color: #0080aa;
+	margin-bottom:5px;
+	font-size:20px;
+}
+
+/* Full-width input fields */
+
+
+input[type=text], input[type=password], input[type=number] ,select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 10px 0;
+    display: inline-block;
+    border: none;
+	border-bottom: 1px dotted #bbb;
+    
+	font-size: 12pt;
+}
+
+
+input[type=text]:focus, input[type=password]:focus, input[type=number]:focus,select:focus {
+    background-color: #00bfff;
+    outline: none;
+}
+
+
+/* Set a style for all buttons */
+button {
+    background-color: #56A5EC;
+    color: white;
+    padding: 6px 10px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+	font-size: 14pt;
+}
+
+button:hover {
+    opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    padding: 6px 10px;
+    background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+  margin: 5px;
+}
+
+/* Add padding to container elements */
+.login_container {
+   position:fixed;
+   top:50%;
+   left:50%;
+   width:30em;
+   height:28em;
+   margin-top:-14em;
+   margin-left:-15em;
+	border:2px solid #151b54; background-color:white;
+}
+.login__container {
+   position:fixed;
+   top:50%;
+   left:50%;
+   width:30em;
+   height:34em;
+   margin-top:-17em;
+   margin-left:-15em;
+	border:2px solid #151b54; background-color:white;
+}
+.login___container {
+   position:fixed;
+   top:50%;
+   left:50%;
+   width:30em;
+   height:40em;
+   margin-top:-17em;
+   margin-left:-15em;
+	border:2px solid #151b54; background-color:white;
+}
+.login_header {
+    
+    display:flex;
+    float:left;
+    align-items:left;
+    justify-content:left;
+}
